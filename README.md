@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para elaborar e ajustar o roteiro do vídeo, enquanto o "D-
 🚀 Resultados
 O vídeo apresentará de maneira cativante como a inteligência artificial está progredindo e contribuindo para aprimorar diversos aspectos do nosso cotidiano.
 
-LINK DO VIDEO
+https://[](https://studio.d-id.com/share?id=6748487d5854fd044a88f4804c26d0cd&utm_source=copy)
 
 💭 Reflexão 
 Este projeto foi uma experiência única, aproveitando o potencial das IAs generativas para desenvolver uma narrativa envolvente e impactante.
